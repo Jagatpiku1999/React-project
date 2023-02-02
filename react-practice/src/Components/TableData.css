@@ -1,0 +1,35 @@
+table{
+    margin-left: 353px;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: rgb(15, 1, 1);
+    color: yellow;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+th{
+    background-color: rgb(99, 11, 80);
+    color: rgb(235, 6, 6);
+    
+   
+}
+
+tr{
+    border: 2px;
+    border-color: white;
+   
+}
+tr:hover{
+    background-color: rgb(241, 241, 6);
+    color: black;
+}
+
+#td{
+    border-bottom-left-radius: 30px;
+}
+
+#td1{
+    border-bottom-right-radius: 30px;
+}

@@ -1,0 +1,45 @@
+.Aphoto{
+    margin-top: 60px;
+    height: 600px;
+    width: 600px;
+    
+}
+
+.Aphoto1{
+    position: relative;
+    top: -517px;
+    right: -72px;
+}
+
+.Aphoto2{
+    position: relative;
+    top: -900px;
+    right: -885px; 
+    height: 390px;
+    width: 400px;
+    
+}
+
+.Aphoto3{
+    margin-top: 60px;
+    height: 600px;
+    width: 600px;
+    position: relative;
+    right: -919px;
+    
+}
+
+.Aphoto4{
+    position: relative;
+    top: -517px;
+    right: -24px;
+}
+
+.Aphoto5{
+    position: relative;
+    top: -900px;
+    right: 710px; 
+    height: 390px;
+    width: 400px;
+    
+}

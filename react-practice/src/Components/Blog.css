@@ -1,0 +1,35 @@
+.Bparent{
+    margin-left: 50px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    height: 550px;
+    width: 800px;
+    background-color: blanchedalmond;
+    border: 1px solid black;
+    border-radius: 10px;
+    border-style: dotted;
+    
+
+
+}
+
+.Bchild{
+    border: 2px;
+    border-color: black;
+    position: relative;
+    left: 60px;
+}
+
+
+.Bimage{
+    margin-left: 20px;
+}
+
+.Bbox{
+  width: 230px;
+  height: 490px;
+  border: 1px solid black;
+  position: relative;
+  left: 1073px;
+  top: -530px;
+}

@@ -1,0 +1,53 @@
+.textarea{
+    width: 900px;
+    height: 300px;
+}
+
+.input1{
+    width: 450px;
+    height: 50px;
+}
+
+.input2{
+    width: 900px;
+    height: 50px;
+}
+
+.button{
+    background-color: orangered;
+    color: aliceblue;
+    border-radius: 10px;
+    top: -16px;
+    left: 375px;
+    position: relative;
+}
+
+.sparent{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 20px;
+    column-gap: 10px;
+    row-gap: 10px;
+}
+
+h6{
+  text-align: center; 
+  color: blue; 
+}
+
+.schild{
+    border-color: black;
+    border: 1px solid;
+    border-radius: 20px;
+
+}
+
+.project{
+    margin: 28px;
+    border-color: black;
+    border: 3px solid;
+    border-radius: 10px;
+}
+
